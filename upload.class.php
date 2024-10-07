@@ -2,7 +2,7 @@
 
 /**
  * Upload version 1.0
- * Created by Fabriel Taboada y Lucas Retuccia http://github.com/xxx
+ * Created by Fabriel Taboada https://github.com/ftaboada00
  * Date 24 august 2024
  */
 class Upload
